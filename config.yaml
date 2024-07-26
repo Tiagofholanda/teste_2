@@ -1,0 +1,100 @@
+credentials:
+  usernames:
+    MARIANA: #User
+      email: null
+      name: Mariana #N ome do usuário
+      password: '$2b$12$l8PQ5wJ5HbS9k3poQLnCLeZXeYtcwGReaG6EplRv2VBc14f.lAZri' # Senha criptografada
+      
+    RICARDO.OLIVEIRA: #User
+      email: null
+      name: Ricardo Oliveira #N ome do usuário
+      password: '$2b$12$nDL0V7KQchuvWUCQaEaIGuFQC0anyuAB28i3OmZF.jmHpY3qX15cq' # Senha criptografada
+      
+    JANICE: #User
+      email: null
+      name: Janice #N ome do usuário
+      password: '$2b$12$WLO9LXP9/AYkZZ/xyNkpO.oIcC2IbIxn5Z1vqVGz6gyYyIGSb.8LS' # Senha criptografada
+      
+    MIRO: #User
+      email: null
+      name: Miro #N ome do usuário
+      password: '$2b$12$o.hLAmj/22b2c17PPOYv5e4kPpxCFIMB6z5eVbexYjRqpYz3Ww.cC' # Senha criptografada
+      
+    MARIA.ALICE: #User
+      email: null
+      name: Maria Alice #N ome do usuário
+      password: '$2b$12$jYkgrjU0wYRARTV6brpuf.TFkB2XXtzqMQUkoGhw4LHlaoa8ASvKG' # Senha criptografada
+      
+    HELENO.MACIEL: #User
+      email: null
+      name: Heleno Maciel #N ome do usuário
+      password: '$2b$12$OXEcS9XpQu7/mZjLceoH4.4qtXDAs8zYJrE5UEaTLcVaTIK7B9gXO' # Senha criptografada
+      
+    ANTONIO.NAHAS: #User
+      email: null
+      name: Antonio Nahas #N ome do usuário
+      password: '$2b$12$VH8Gw6eqAgdORbX09QSy.O56TaNkKF7KytlIoo.TQvK4JovJgxm7O' # Senha criptografada
+      
+    HENRIQUE: #User
+      email: null
+      name: Henrique #N ome do usuário
+      password: '$2b$12$LQ1m4nvuzeXT0STycZldmuLtERjH3BMaL1nAsNboC6J2BfipR1UrG' # Senha criptografada
+      
+    JADSON: #User
+      email: null
+      name: Jadson #N ome do usuário
+      password: '$2b$12$nruAIThcHn92ZfqZsyDdcu8wAZjjLX1nkPDRBH6HFzrwVQON73y7G' # Senha criptografada
+      
+    SERGIO.OLIVEIRA: #User
+      email: null
+      name: Sergio Oliveira #N ome do usuário
+      password: '$2b$12$chN0wK6gCRHyYX1Ue3f0E.AQLKYWHDC4w6ZE8eaqKTWvIMck1KOES' # Senha criptografada
+    
+    MARCELO.ANDRADE: #User
+      email: null
+      name: Marcelo Andrade #N ome do usuário
+      password: '$2b$12$DpuKEEB1ZaEa/LZxMZwjc.gpF8TKpfR3z.IemNutlNccLXBfmH1Z6' # Senha criptografada
+    
+    MARCO.ANTONIO: #User
+      email: null
+      name: Marco Antonio #N ome do usuário
+      password: '$2b$12$M7rzUJVB1l04N2XDlgctgOGs133E47JthROjzXkaUvqYODp.IkyZa' # Senha criptografada
+    
+    JACQUELINE: #User
+      email: null
+      name: Jacqueline #N ome do usuário
+      password: '$2b$12$n5fHPjCyt0CbtbSV69gmT.EwZRKxomITo4HIGBMHDwpam5Gtr5p5C' # Senha criptografada
+    
+    JULIANA.TRINDADE: #User
+      email: null
+      name: Juliana Trindade #N ome do usuário
+      password: '$2b$12$86MdE1BYbp1AAjVx/K27b.6Wt2Tr38sN8LVUMZY2ShNO44fSSdQ.a' # Senha criptografada
+      
+    PAOLA.FERREIRA: #User
+      email: null
+      name: Paola Ferreira #N ome do usuário
+      password: '$2b$12$HRGST1WtT2n0yNLwmrlz8.vDuMBxmCF7VA67IDNmYvJhtnUHyswwu' # Senha criptografada
+      
+    FABIO.MOURA: #User
+      email: null
+      name: Fabio Moura #N ome do usuário
+      password: '$2b$12$N3x8r.LCD/3IVkAWI0yrauQgs4WrmlKUEyCZ9Ye19JXmVwTdY3PjG' 
+      
+    ADILSON.FERNANDES: #User
+      email: null
+      name: ADILSON FERNANDES #N ome do usuário
+      password: '$2b$12$zyabWHz9rjb4douZkW2Jr.zEpMv4m9u8RYFj2m.okQMNpWM.e6z9a' 
+
+    CARLOS.LONGINO: #User
+      email: null
+      name: CARLOS LONGINO #N ome do usuário
+      password: '$2b$12$Sg7wpF7K/zSjrUtUWiw9w.D1pp/ozD5oMebzw4HiNu73F6e7kU0Oq' 
+
+      # Senha criptografada
+cookie:
+  expiry_days: 36000 #tempo para expirar a senha
+  key: random_signature_key
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - teste@gmail.com

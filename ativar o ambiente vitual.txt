@@ -1,0 +1,10 @@
+.\venv\Scripts\Activate.ps1
+ou  
+.\venv\Scripts\activate
+
+rodar 
+streamlit run main.py
+
+
+HENRIQUE
+@okr2024HN
